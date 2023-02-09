@@ -2,14 +2,14 @@
 
 My name is Vsevolod) I have been successfully working as a programmer for more than four years, and I have been studying programming for even longer. I have extensive experience in organization and optimization workflows, in developing projects from scratch: from SPA applications to embedded systems. I have a fairly broad outlook in the world of technology, I know how to select technical solutions and design. A special place in my life is occupied by the process of reserch, learning new languages, practices, technologies, and so on.
 
-🦕 I’m currently working on my startup denostap.dev
+🦕 I’m currently working on my startup [denostap.dev](https://denostep.dev)
 And i hope that everything will work out (─‿‿─)
 
 🌱 I’m currently learning:
 + F# 🔥
 + event driven architecture 📐
 + BPMN 💼
-+ Deno 🐉 and Fresh 🍋 
++ Deno 🦖 and Fresh 🍋 
 
 📫 How to reach me:
 
