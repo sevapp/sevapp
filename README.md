@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 My name is 🔥 Vsevolod 🔥 I have been successfully working as a programmer for more than four years, and I have been studying programming for even longer. I have extensive experience in organization and optimization workflows, in developing projects from scratch: from SPA applications to embedded systems. I have a fairly broad outlook in the world of technology, I know how to select technical solutions and design. A special place in my life is occupied by the process of reserch, learning new languages, practices, technologies, and so on.
 
 🦕 I’m currently working on my startup [denostap.dev](https://denostep.dev)
@@ -12,8 +11,7 @@ And i hope that everything will work out (─‿‿─)
 + Deno 🦖 and Fresh 🍋 
 
 📫 How to reach me:
-
-My telegramm channel: [IT NIHILISM](https://t.me/itnigilizm)
+[![IT NIHILISM](https://img.shields.io/badge/IT_NIHILISM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itnigilizm)
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sevapp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevapp)
