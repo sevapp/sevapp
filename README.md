@@ -10,10 +10,10 @@ And i hope that everything will work out (─‿‿─)
 + BPMN 💼
 + Deno 🦖 and Fresh 🍋 
 
-📫 How to reach me:
-[![IT NIHILISM](https://img.shields.io/badge/IT_NIHILISM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itnigilizm)
+📫 How to reach me:<br><br>
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sevapp)
+[![IT NIHILISM](https://img.shields.io/badge/IT_NIHILISM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itnigilizm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevapp)
 
 <span align="left">My languages and tools (and more):</span>
