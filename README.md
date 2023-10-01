@@ -13,11 +13,13 @@ And i hope that everything will work out (─‿‿─)
 ### 📫 How to reach me?
 **My personal contacts:**<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevapp)
-[![DEV SEVAPP](https://img.shields.io/badge/sevapp-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sevapp)<br>
-**My technical block about IT and more:**<br>
+[![DEV SEVAPP](https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
+[![Telegram Sevapp](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sevapp)
+[![Twitter Sevapp](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_sevapp)<br>
+**My technical blog about IT and more:**<br>
+[![DEV IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
 [![IT NIHILIZM](https://img.shields.io/badge/IT_NIGILIZM-00B4B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itnigilizm)
-[![DEV IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)<br>
+[![Twitter IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/it_nigilizm)<br><br>
 **Russian-speaking community of deno developers:**<br>
 [![deno runtime (ru community)](https://img.shields.io/badge/deno_runtime_group-CCD6B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deno_runtime)
 [![deno runtime channel (ru community)](https://img.shields.io/badge/deno_runtime_channel-CCB4B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deno_runtime_channel)
