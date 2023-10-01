@@ -19,7 +19,7 @@ And i hope that everything will work out (─‿‿─)
 **My technical blog about IT and more:**<br>
 [![DEV IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sevapp)
 [![IT NIHILIZM](https://img.shields.io/badge/IT_NIGILIZM-00B4B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itnigilizm)
-[![Twitter IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/it_nigilizm)<br>
+[![Twitter IT NIGILIZM](https://img.shields.io/badge/IT_NIGILIZM-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itnigilizm)<br>
 **Russian-speaking community of deno developers:**<br>
 [![deno runtime (ru community)](https://img.shields.io/badge/deno_runtime_group-CCD6B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deno_runtime)
 [![deno runtime channel (ru community)](https://img.shields.io/badge/deno_runtime_channel-CCB4B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deno_runtime_channel)
